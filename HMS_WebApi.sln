@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32413.511
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HMS_WebApi", "HMS_WebApi.csproj", "{1885D0DC-ED72-4387-A691-16EF8422479A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HMS_MVC", "HMS_MVC\HMS_MVC.csproj", "{2CACCED0-D6DE-4E5A-88EC-8AD5D120C993}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1885D0DC-ED72-4387-A691-16EF8422479A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1885D0DC-ED72-4387-A691-16EF8422479A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1885D0DC-ED72-4387-A691-16EF8422479A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1885D0DC-ED72-4387-A691-16EF8422479A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2CACCED0-D6DE-4E5A-88EC-8AD5D120C993}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2CACCED0-D6DE-4E5A-88EC-8AD5D120C993}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2CACCED0-D6DE-4E5A-88EC-8AD5D120C993}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2CACCED0-D6DE-4E5A-88EC-8AD5D120C993}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {CEC97CA0-3D62-4635-880A-DBE94098EAEB}
+	EndGlobalSection
+EndGlobal
